@@ -6,7 +6,7 @@ namespace Projeto2
     {
         static void Main(string[] args)
         {
-            Console.Write("Deseva ver a tabuada de qual número? ");
+            Console.Write("Deseja ver a tabuada de qual número? ");
             int resposta = int.Parse(Console.ReadLine());
 
             int resultado;
